@@ -69,7 +69,7 @@
       "gift_id":5487
     },
     {
-      "effect_name":"ChangeVehicleColorEffect",
+      "effect_name":"ThrowVehiclePlayerEffect",
       "gift_id":9541
     },
     {
@@ -101,11 +101,11 @@
       "gift_id":5303
     },
     {
-      "effect_name":"ExplodePlayerVehicleEffect",
+      "effect_name":"AssassinationPlaneEffect",
       "gift_id":6097
     },
     {
-      "effect_name":"ThrowVehiclePlayerEffect",
+      "effect_name":"RainRandomVehicleEffect",
       "gift_id":5660,
       "duration":10
     },
@@ -116,11 +116,6 @@
     {
       "effect_name":"SetTimeDayEffect",
       "gift_id":9139
-    },
-    {
-      "effect_name":"RainRandomVehicleEffect",
-      "gift_id":5924,
-      "duration":20
     }
   ],
   "like":{
